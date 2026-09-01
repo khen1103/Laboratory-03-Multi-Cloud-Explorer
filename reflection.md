@@ -1,0 +1,13 @@
+# Checkpoint 8 – Repleksyon sa Misyon
+
+## Repleksyon sa Mission 3
+
+Sa pagitan ng AWS, Microsoft Azure, at Google Cloud Platform, ang cloud platform na pinaka-nagustuhan ko ay ang Amazon Web Services (AWS). Humanga ako sa napakaraming serbisyong inaalok ng AWS para sa iba't ibang uri ng users at organizations. Nagbibigay ito ng mga serbisyo para sa computing, storage, databases, networking, security, at iba pang pangangailangan sa cloud. Sa pag-aaral tungkol sa AWS, mas naunawaan ko kung paano nagbibigay ang cloud platforms ng flexible na resources nang hindi kinakailangang panatilihin ng mga organizations ang lahat ng kanilang physical infrastructure.
+
+Maraming pagkakatulad ang AWS, Azure, at GCP. Lahat sila ay mga pangunahing public cloud platforms na nagbibigay ng computing, storage, networking, databases, security, at iba pang services. Pinapayagan din nila ang mga organizations na mag-scale ng kanilang resources depende sa kanilang pangangailangan at nagbibigay ng mga tools para sa pamamahala ng cloud infrastructure. Bagama't magkakaiba ang pangalan at ilang features ng kanilang mga serbisyo, marami silang kayang lutasin na parehong business at technical problems.
+
+Malaki ang epekto ng business requirements sa pagpili ng cloud platform. Dapat isaalang-alang ng isang kumpanya ang budget, kasalukuyang technology, performance requirements, security needs, scalability, at uri ng applications na gagamitin. Halimbawa, ang isang business na gumagamit na ng Microsoft technologies ay maaaring mas makinabang sa Azure, habang ang isang organization na nakatuon sa artificial intelligence at machine learning ay maaaring isaalang-alang ang GCP. Samakatuwid, ang pinakamagandang cloud provider ay hindi palaging ang pinakasikat, kundi ang provider na pinakaangkop sa requirements ng organization.
+
+Bilang isang Cloud Solutions Consultant, natutunan ko na ang pagpili ng cloud provider ay nangangailangan ng maingat na pagsusuri. Natutunan ko na ang mga technical decisions ay dapat nakaayon sa aktuwal na pangangailangan at mga layunin ng client. Ang paghahambing ng iba't ibang providers at pagsusuri sa iba't ibang business scenarios ay nakatulong sa akin na mapaunlad ang aking decision-making at problem-solving skills.
+
+Napabuti rin ang aking GitHub Cloud Computing Portfolio matapos makumpleto ang mission na ito. Nakapagdagdag ako ng research tungkol sa AWS, Azure, at GCP, comparison tables, client recommendations, at Linux investigation results. Mas naging organisado ang aking portfolio at ipinapakita nito ang aking kaalaman tungkol sa cloud computing concepts at ang aking kakayahang mag-document ng technical work gamit ang Markdown.
