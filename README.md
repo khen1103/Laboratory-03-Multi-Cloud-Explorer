@@ -31,4 +31,10 @@ The purpose of this laboratory is to investigate their infrastructure, core serv
 7. Continue Your Linux Investigation
 8. Mission Reflection
 
+| Cloud Provider                  | Service                                | Description                                                                                                                                  |
+| ------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AWS**                         | **Amazon EC2 (Elastic Compute Cloud)** | Provides virtual servers where a Linux operating system can be installed and used to run applications, websites, and other server workloads. |
+| **Microsoft Azure**             | **Azure Virtual Machines**             | Provides customizable virtual machines that can run different Linux distributions and server applications.                                   |
+| **Google Cloud Platform (GCP)** | **Google Compute Engine**              | Provides scalable virtual machines that can run Linux-based servers and applications.                                                        |
+
 
